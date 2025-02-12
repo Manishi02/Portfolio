@@ -1166,14 +1166,15 @@ body {
 .desktop .text-wrapper-21 {
   position: absolute;
   width: 336px;
-  top: 209px;
-  left: 75px;
+  top: 200px;
+  left: 60px;
   font-family: "Arya", Helvetica;
-  font-weight: 400;
-  color: #a7a9ac;
-  font-size: 20px;
-  letter-spacing: 1.6px;
-  line-height: 25.4px;
+  font-weight: 100;
+  color: #8e8f91;
+  font-size: 10px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  right: 30px;
 }
 
 .desktop .group-18 {
